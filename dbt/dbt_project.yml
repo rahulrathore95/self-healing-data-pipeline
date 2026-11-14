@@ -1,0 +1,5 @@
+name: self_healing_orders
+version: "1.0.0"
+config-version: 2
+profile: self_healing_orders
+model-paths: ["models"]
